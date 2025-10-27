@@ -8,7 +8,7 @@ public class Smartphone implements Phone{
         System.out.println("El telefono esta llamando!");
     }
 
-    public void Pictures (){
+    public void pictures (){
         System.out.println("El telefono está haciendo una foto.");
     }
 

@@ -11,9 +11,8 @@ public class MainAppPrincipal {
 
         System.out.println("Método limitado por interfaz Phone.");
         Generic.phoneNumber(smartphoneModel1);
-
-        System.out.println();
-        System.out.println("Método limitado por classe Smartphone.");
+        
+        System.out.println("\nMétodo limitado por classe Smartphone.");
         Generic.pictureSomething(smartphoneModel1);
 
     }

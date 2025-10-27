@@ -10,10 +10,10 @@ public class MainApp {
         Person person1 = new Person("Jordi","Casas",38);
 
         System.out.println();
-        GenericMethods.ShowParameters(1987, "Barcelona","valorString");
+        GenericMethods.showParameters(1987, "Barcelona","valorString");
 
         System.out.println();
-        GenericMethods.ShowParameters(person1, 1987,"Barcelona");
+        GenericMethods.showParameters(person1, 1987,"Barcelona");
 
 
     }
